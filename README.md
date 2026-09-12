@@ -1,7 +1,7 @@
 # Superstore Dataset (Dataset containing Sales & Profits of a Superstore)    
 #kaggle dataset link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final    
-#GitHub Repository link: 
-#edstem workspace link: 
+#GitHub Repository link: https://github.com/HaoquanZhang28/CSCI-UA-60-Assignment1-haoquan-zhang    
+#edstem workspace link: https://edstem.org/us/courses/105050/workspaces/pLV3Qv2auljAudoenES6l4w6YjTe4X4k    
 
 ## Why I Chose This Dataset?    
 I chose the superstore dataset because it contains real retail data that covers various fields such as regions, sales, profits, etc. These fields make the dataset suitable for analyzing realistic business operational problems. Besides, the topic of the dataset aligns with my career interests in data analysis and business analytics.    
