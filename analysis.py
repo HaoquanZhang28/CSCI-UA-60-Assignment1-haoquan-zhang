@@ -39,7 +39,7 @@ for row in rows[:10]:
     print(row["Order ID"], row["Customer Name"], row["Sales"])
 print()
 
-# 7.1 [Filtering] Which region in the United States has the highest sales in total?
+# 7.1 [Filtering] Which region in the United States has the highest total sales?
 sales_by_region = {}
 if row["Country"] == "United States":
     for row in rows:
