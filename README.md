@@ -12,7 +12,7 @@ I chose the superstore dataset because it contains real retail data that covers 
 
 ### Question 1: Which region in the United States has the highest total sales?    
 ```python
-# 7.1 [Filtering] Which region in the United States has the highest sales in total?
+# 7.1 [Filtering] Which region in the United States has the highest total sales?
 sales_by_region = {}
 if row["Country"] == "United States":
     for row in rows:
